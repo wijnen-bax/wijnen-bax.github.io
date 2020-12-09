@@ -6,3 +6,5 @@ bodyClass: page-about
 ---
 
 Geboren uit de passie voor het land, de smaak en de cultuur biedt Hunarian Wines Bax u het beste wat Hongarije u te bieden heeft.
+
+Michael Bax
