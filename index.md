@@ -9,4 +9,4 @@ intro_image_hide_on_mobile: true
 
 # Hungarian Wines Bax
 
-Heerlijke Hongaarse producten om gan te genieten in alle omstandigheden
+Heerlijke Hongaarse producten om van te genieten in alle omstandigheden.
