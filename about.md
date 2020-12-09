@@ -1,10 +1,11 @@
 ---
 title: 'Over ons'
-date: 2018-02-22T17:01:34+07:00
-layout: page
-bodyClass: page-about
+layout: services
+intro_image: "images/illustrations/love.svg"
+intro_image_absolute: true
+intro_image_hide_on_mobile: false
 ---
 
 Geboren uit de passie voor het land, de smaak en de cultuur biedt Hunarian Wines Bax u het beste wat Hongarije u te bieden heeft.
 
-Michael Bax
+Michael Bax.
