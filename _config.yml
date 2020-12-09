@@ -1,7 +1,7 @@
 baseurl: ''
 exclude: ['README.md']
 permalink: pretty
-title: 'Jekyll Serif'
+title: 'Hungarian Wines Bax'
 
 google_analytics_id: ""
 homepage:
