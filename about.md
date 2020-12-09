@@ -5,6 +5,7 @@ intro_image: "images/illustrations/loving.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
+# Over ons
 
 Geboren uit de passie voor het land,   
 de smaak en de cultuur.  
