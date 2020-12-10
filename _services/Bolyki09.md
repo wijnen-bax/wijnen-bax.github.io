@@ -2,7 +2,7 @@
 title: "Bij de Opera van Kékfrankos - 2016"
 date: 2018-11-18T12:33:46+10:00
 featured: false
-weight: 1
+weight: 9
 layout: service
 ---
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
@@ -20,7 +20,7 @@ Suikergehalte, g / l: 1,5
 Alcoholgehalte, %: 13,30
 Alcoholgehalte aangegeven op de fles, %: 13
 Titreerbaar zuurgehalte, g / l: 6,1
-Inhoud suikervrij extract, g / l: 30,8 
+Inhoud suikervrij extract, g / l: 30,8
 
 ### Prijs
 

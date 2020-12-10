@@ -1,8 +1,7 @@
 ---
-title: "Meta Tema (zoete lindebladere) - 2019"
+title: "Meta Tema (zoete lindebladeren) - 2019"
 date: 2018-11-18T12:33:46+10:00
-featured: false
-weight: 1
+weight: 10
 layout: service
 ---
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
