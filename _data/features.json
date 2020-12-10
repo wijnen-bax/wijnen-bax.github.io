@@ -1,12 +1,10 @@
 [
   {
     "title": "Bolyki",
-    "description": "Bolyki Wijnen.",
     "image": "images/features/Bolyki.png"
   },
   {
     "title": "Vylyan",
-    "description": "Vylyan Wijnen.",
     "image": "images/features/Vylyan.png"
   }
 ]
