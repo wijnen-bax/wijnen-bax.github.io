@@ -14,7 +14,9 @@ voor het land,
 
 de smaak  
 
-en de cultuur.  
+en de cultuur.
+
+![vlag](/images/vlag.jpg)
 
 Gestart als een droom  
 
