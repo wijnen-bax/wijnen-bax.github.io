@@ -9,15 +9,13 @@ layout: service
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
-### Omschrijving
-
 Geurige, vrolijke, zilverkleurige, frisse wijn met goed bewaarde zuren, zelfs tijdens de
 warme vintage, met bloemige, fruitige tonen van de variëteit. Korte rijping in een stalen
 tank, licht slokje met meerdere smaken.
 
 ### Eigenschappen  
 
-Inhoud: 750 ml
+Inhoud: 750 ml  
 Wijnjaar: 2019  
 
 Droogheidsgraad: droog
