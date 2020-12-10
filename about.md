@@ -16,7 +16,7 @@ de smaak
 
 en de cultuur.
 
-![vlag](/images/vlag.jpg)
+![vlag](/images/vlag.JPG)
 
 Gestart als een droom  
 
