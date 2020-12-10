@@ -11,5 +11,3 @@ Geboren uit de passie voor het land,
 de smaak en de cultuur.  
 
 Hunarian Wines Bax: het beste wat Hongarije u te bieden heeft.
-
-Michael Bax.
