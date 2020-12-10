@@ -8,4 +8,4 @@ layout: service
 
 Heerlijke Hongaarse worst.
 
-![Kolbasz](/images/Kolbasz.jpg)
+![Kolbasz](/images/Kolbasz.JPG)
