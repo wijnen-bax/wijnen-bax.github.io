@@ -1,8 +1,8 @@
 main:
-  - name: "Services"
+  - name: "Wijn"
     url: "/services/"
     weight: 2
-  - name: "Team"
+  - name: "Voeding"
     url: "/team/"
     weight: 3
   - name: "Over ons"
