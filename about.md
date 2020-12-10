@@ -10,13 +10,8 @@ intro_image_hide_on_mobile: false
 Geboren uit de passie voor het land,   
 de smaak en de cultuur.  
 
-Hungarian Wines Bax: het beste wat Hongarije u te bieden heeft.
 
-Geboren uit de passie voor het land,   
-de smaak en de cultuur.  
 
-Hungarian Wines Bax: het beste wat Hongarije u te bieden heeft.
-Geboren uit de passie voor het land,   
-de smaak en de cultuur.  
+
 
 Hungarian Wines Bax: het beste wat Hongarije u te bieden heeft.
