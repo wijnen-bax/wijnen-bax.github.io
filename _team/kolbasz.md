@@ -6,6 +6,6 @@ weight: 1
 layout: service
 ---
 
-Heerlijke Hongaarse worst
+Heerlijke Hongaarse worst.
 
 ![Kolbasz](/images/Kolbasz.jpg)
