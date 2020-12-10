@@ -5,8 +5,6 @@ featured: true
 weight: 1
 layout: service
 ---
-
-
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
 
 Geurige, vrolijke, zilverkleurige, frisse wijn met goed bewaarde zuren, zelfs tijdens de
@@ -27,7 +25,7 @@ Suikervrij extract, g / l: 20,7
 
 ### Prijs
 
-7.5 €
+7,5 €
 
 ### Het verhaal
 
