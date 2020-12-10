@@ -1,7 +1,7 @@
 ---
 title: 'Over ons'
 layout: about
-intro_image: "images/illustrations/love.JPG"
+intro_image: "images/illustrations/loving.JPG"
 intro_image_absolute: true
 intro_image_hide_on_mobile: false
 ---
