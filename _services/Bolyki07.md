@@ -16,10 +16,10 @@ gedurende anderhalf jaar. Ongefilterd, vurig, rijk.
 Inhoud: 750 ml  
 Wijnjaar: 2016  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 2,7
-Alcoholgehalte aangegeven op de fles, %: 14,5
-Titreerbaar zuurgehalte, g / l: 5,4
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 2,7  
+Alcoholgehalte aangegeven op de fles, %: 14,5  
+Titreerbaar zuurgehalte, g / l: 5,4  
 Suikervrij extract, g / l: 29,7
 
 ### Prijs

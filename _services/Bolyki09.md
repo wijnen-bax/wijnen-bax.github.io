@@ -15,11 +15,11 @@ diepe, rijpe aroma ontmoeten rode bessen en kruiden elkaar.
 Inhoud: 750 ml  
 Wijnjaar: 2016  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 1,5
-Alcoholgehalte, %: 13,30
-Alcoholgehalte aangegeven op de fles, %: 13
-Titreerbaar zuurgehalte, g / l: 6,1
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 1,5  
+Alcoholgehalte, %: 13,30  
+Alcoholgehalte aangegeven op de fles, %: 13  
+Titreerbaar zuurgehalte, g / l: 6,1  
 Inhoud suikervrij extract, g / l: 30,8
 
 ### Prijs

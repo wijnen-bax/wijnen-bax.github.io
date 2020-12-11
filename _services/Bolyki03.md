@@ -16,11 +16,11 @@ geur. kruiden en geel vruchtvlees. Medium body, lange smaak, volle wijn met volh
 Inhoud: 750 ml  
 Wijnjaar: 2018  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 1,7
-Werkelijk alcoholgehalte, %: 13,39
-Alc. %: 13,5
-Titreerbaar zuurgehalte, g / l: 5,2
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 1,7  
+Werkelijk alcoholgehalte, %: 13,39  
+Alc. %: 13,5  
+Titreerbaar zuurgehalte, g / l: 5,2  
 Suikervrij extract, g / l: 22,5
 
 ### Prijs

@@ -16,11 +16,11 @@ fruit, lange afdronk. Goede balans, een heel lief lindeblad.
 Inhoud: 500 ml  
 Wijnjaar: 2019  
 
-Droogheidsgraad: zoet
-Suikergehalte, g / l: 108,4
-Werkelijk alcoholgehalte, %: 12,90
-Alc. %: 13
-Titreerbaar zuurgehalte, g / l: 8,35
+Droogheidsgraad: zoet  
+Suikergehalte, g / l: 108,4  
+Werkelijk alcoholgehalte, %: 12,90  
+Alc. %: 13  
+Titreerbaar zuurgehalte, g / l: 8,35  
 Suikervrij extract, g / l: 154,8
 
 ### Prijs

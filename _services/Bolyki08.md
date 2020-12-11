@@ -17,11 +17,11 @@ alcohol en ronde zuren met een lange afdronk.
 Inhoud: 750 ml  
 Wijnjaar: 2017  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 2,7 g / l
-Alcoholgehalte op de fles, %: 14,5
-Titreerbaar zuurgehalte, g / l: 5,1
-Suikervrij extract, g / l: 29 , 9
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 2,7  
+Alcoholgehalte op de fles, %: 14,5  
+Titreerbaar zuurgehalte, g / l: 5,1  
+Suikervrij extract, g / l: 29,9
 
 ### Prijs
 

@@ -17,12 +17,12 @@ drinkbare wijn met een medium body.
 Inhoud: 750 ml  
 Wijnjaar: 2017  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 1,8 g
-Alcoholgehalte, %: 12,26
-Alc. %: 12,5
-Titreerbaar zuurgehalte, g / l: 4,9
-Suikervrij extract, g / l: 26,9
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 1,8 g  
+Alcoholgehalte, %: 12,26  
+Alc. %: 12,5  
+Titreerbaar zuurgehalte, g / l: 4,9  
+Suikervrij extract, g / l: 26,9  
 
 ### Prijs
 

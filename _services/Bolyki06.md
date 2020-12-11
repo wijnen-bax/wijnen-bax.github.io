@@ -19,10 +19,10 @@ lange tijd weg.
 Inhoud: 750 ml  
 Wijnjaar: 2016  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 1,4
-Alcoholgehalte aangegeven op de fles, %: 12,5
-Titreerbaar zuurgehalte, g / l: 5,6
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 1,4  
+Alcoholgehalte aangegeven op de fles, %: 12,5  
+Titreerbaar zuurgehalte, g / l: 5,6  
 Suikervrij extract , g / l: 5,6
 
 ### Prijs

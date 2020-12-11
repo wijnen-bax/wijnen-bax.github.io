@@ -18,11 +18,11 @@ vruchtvlees en een minerale afdronk.
 Inhoud: 750 ml  
 Wijnjaar: 2019  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 2,3
-Actueel alcoholgehalte, %: 12,34
-Alc. %: 12,5
-Titreerbaar zuurgehalte, g / l: 5,5
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 2,3  
+Actueel alcoholgehalte, %: 12,34  
+Alc. %: 12,5  
+Titreerbaar zuurgehalte, g / l: 5,5  
 Suikervrij extract, g / l: 19,7
 
 ### Prijs

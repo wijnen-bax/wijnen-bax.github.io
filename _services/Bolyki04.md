@@ -16,11 +16,11 @@ smakende slok, weinig mineraliteit in geur en smaak.
 Inhoud: 750 ml  
 Wijnjaar: 2019  
 
-Droogheidsgraad: droog
-Suikergehalte, g / l: 1,8
-Alcoholgehalte, %: 11,80
-Alc. %: 12
-Titreerbaar zuurgehalte, g / l: 5,5
+Droogheidsgraad: droog  
+Suikergehalte, g / l: 1,8  
+Alcoholgehalte, %: 11,80  
+Alc. %: 12  
+Titreerbaar zuurgehalte, g / l: 5,5  
 Suikervrij extract, g / l: 20,5
 
 ### Prijs
