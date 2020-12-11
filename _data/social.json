@@ -1,12 +1,12 @@
 [
   {
-    "name": "Github",
-    "link": "https://github.com/zerostaticthemes/jekyll-serif-theme",
-    "image": "images/social/github.svg"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/Hungarian-wines-Bax-104030251221209/",
+    "image": "images/social/icons8-facebook.svg"
   },
   {
-    "name": "Twitter",
-    "link": "https://twitter.com/zerostaticio",
-    "image": "images/social/twitter.svg"
+    "name": "Instagram",
+    "link": "https://instagram.com/hungarian.wines.bax",
+    "image": "images/social/icons8-instagram.svg"
   }
 ]
