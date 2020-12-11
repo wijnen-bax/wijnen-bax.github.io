@@ -5,7 +5,7 @@ featured: true
 weight: 2
 layout: service
 ---
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/bolyki02.png)
 
 De Eger Star met een vrolijke geur en rijke smaak uit de Középbérc en Hajdúhegy
 wijngaarden. Royal Maiden, Sauvignon Blanc, Linden Leaf en Rhine Riesling werden

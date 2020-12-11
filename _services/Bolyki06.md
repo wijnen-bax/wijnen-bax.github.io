@@ -5,7 +5,7 @@ featured: true
 weight: 6
 layout: service
 ---
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/bolyki06.png)
 
 Eger stierbloed, ongefilterd en anderhalf jaar gebotteld in een vat van 500 liter,
 spontaan gefermenteerd in een tank. Medium-body, fruitige, levendige wijn. Intens

@@ -5,7 +5,7 @@ featured: true
 weight: 3
 layout: service
 ---
-![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
+![Accounting Services](/images/bolyki03.png)
 
 Buiten de wereld, ongrijpbaar - en niet alleen in zijn naam: betoverende gouden kleur,
 honing, peer, abrikozengeur. Frisse, geurige, delicate droge slok, subtiel minerale
