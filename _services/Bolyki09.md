@@ -5,7 +5,7 @@ featured: false
 weight: 9
 layout: service
 ---
-![Accounting Services](/images/bolyki09.png)
+![Bolyki09](/images/bolyki09.png)
 
 Een middelgrote, sterk zure wijn met een bijzonder fijnkorrelige, goede tannine. In zijn
 diepe, rijpe aroma ontmoeten rode bessen en kruiden elkaar.

@@ -5,7 +5,7 @@ featured: false
 weight: 7
 layout: service
 ---
-![Accounting Services](/images/bolyki07.png)
+![Bolyki07](/images/bolyki07.png)
 
 Rijke wijn: rokerig, eiken en bessen tegelijk. Vrolijk label, goedaardig, rijke inhoud. In
 een tank, spontaan gegist, 500 jaar gerijpt in nieuwe en gebruikte eikenhouten vaten

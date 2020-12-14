@@ -5,7 +5,7 @@ featured: true
 weight: 3
 layout: service
 ---
-![Accounting Services](/images/bolyki03.png)
+![Bolyki03](/images/bolyki03.png)
 
 Buiten de wereld, ongrijpbaar - en niet alleen in zijn naam: betoverende gouden kleur,
 honing, peer, abrikozengeur. Frisse, geurige, delicate droge slok, subtiel minerale

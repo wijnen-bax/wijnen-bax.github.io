@@ -5,7 +5,7 @@ featured: true
 weight: 5
 layout: service
 ---
-![Accounting Services](/images/bolyki05.png)
+![Bolyki05](/images/bolyki05.png)
 
 Kékfrankos, blauburger en pinot noir zijn het grootste deel, maar alle soorten die in de
 wijnmakerij te vinden zijn, zijn erin te vinden. Zure kers, zwarte kers, lichte, sappige,

@@ -5,7 +5,7 @@ featured: false
 weight: 8
 layout: service
 ---
-![Accounting Services](/images/bolyki08.png)
+![Bolyki08](/images/bolyki08.png)
 
 Elegant stierenbloed, geselecteerd uit de beste vaten in de kelder. Intens aroma:
 bosvruchten, zwarte kersen, vulkanisch-kalkhoudende grond, tabak. Het wordt

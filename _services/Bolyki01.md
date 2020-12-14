@@ -5,7 +5,7 @@ featured: true
 weight: 1
 layout: service
 ---
-![Accounting Services](/images/bolyki01.png)
+![Bolyki01](/images/bolyki01.png)
 
 Geurige, vrolijke, zilverkleurige, frisse wijn met goed bewaarde zuren, zelfs tijdens de
 warme vintage, met bloemige, fruitige tonen van de variëteit. Korte rijping in een stalen
