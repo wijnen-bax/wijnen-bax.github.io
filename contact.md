@@ -7,4 +7,4 @@ bodyClass: page-contact
 Wegens de geldende maatregelen zijn wij enkel open op afspraak.  
 Gratis levering binnen een straal van 10km.
 
-Ons adres: Hoge Weg 270, 2940 Stabroek
+Ons adres: Grote Molenweg 270, 2940 Stabroek
