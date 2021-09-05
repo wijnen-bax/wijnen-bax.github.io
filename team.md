@@ -1,5 +1,5 @@
 ---
-title: Voeding
+title: Hungarian Wines Bax
 layout: teams
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true

@@ -1,5 +1,5 @@
 ---
-title: 'Over ons'
+title: Hungarian Wines Bax
 layout: about
 intro_image: "images/illustrations/loving.JPG"
 intro_image_absolute: true

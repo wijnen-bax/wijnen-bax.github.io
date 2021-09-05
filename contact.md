@@ -1,5 +1,5 @@
 ---
-title: Contact
+title: Hungarian Wines Bax
 layout: contact
 bodyClass: page-contact
 ---
