@@ -26,4 +26,4 @@ Suikervrij extract, g / l: 29,7
 
 ### Het verhaal
 
-MDe cabernet franc is niet erg Hongaars, maar Károly May en Gyula Verne waren ook niet de echte Hongaren, maar we dachten dat het goed voor ons was. De exacte herkomst van Jani Bolyki weten we ook niet, de Italianen noemen hem Giovanni Boichi, maar velen denken nog steeds dat hij van Tsjechische afkomst is, aangezien hij in dat taalgebied bekend werd als Janoska Bonyek. Hij is als Ferenc Liszt, waarvan we denken dat hij Hongaars is, de Duitsers zijn Duits, de Fransen zijn Frans, en dit is goed voor iedereen.
+De cabernet franc is niet erg Hongaars, maar Károly May en Gyula Verne waren ook niet de echte Hongaren, maar we dachten dat het goed voor ons was. De exacte herkomst van Jani Bolyki weten we ook niet, de Italianen noemen hem Giovanni Boichi, maar velen denken nog steeds dat hij van Tsjechische afkomst is, aangezien hij in dat taalgebied bekend werd als Janoska Bonyek. Hij is als Ferenc Liszt, waarvan we denken dat hij Hongaars is, de Duitsers zijn Duits, de Fransen zijn Frans, en dit is goed voor iedereen.
