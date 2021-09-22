@@ -2,7 +2,7 @@
 title: "Indian Summer - 2017"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-weight: 5
+weight: 7
 layout: service
 ---
 ![Bolyki05](/images/bolyki05.png)

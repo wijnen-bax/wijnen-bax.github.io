@@ -2,7 +2,7 @@
 title: "Meta Tema (zoete lindebladeren) - 2019"
 date: 2018-11-18T12:33:46+10:00
 featured: false
-weight: 10
+weight: 12
 layout: service
 ---
 ![Bolyki10](/images/bolyki10.png)

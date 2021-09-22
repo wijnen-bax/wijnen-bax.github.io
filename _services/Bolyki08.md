@@ -2,7 +2,7 @@
 title: "Bolyki en Bolyki stierbloed superieur - 2017"
 date: 2018-11-18T12:33:46+10:00
 featured: false
-weight: 8
+weight: 10
 layout: service
 ---
 ![Bolyki08](/images/bolyki08.png)

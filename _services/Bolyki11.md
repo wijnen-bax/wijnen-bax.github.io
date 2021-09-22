@@ -2,7 +2,7 @@
 title: "Egri Sauvingon Blanc - 2020"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-weight: 10
+weight: 1
 layout: service
 ---
 ![Bolyki10](/images/bolyki11.png)

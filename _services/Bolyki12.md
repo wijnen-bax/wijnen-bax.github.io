@@ -1,8 +1,8 @@
 ---
 title: "Egri Cabernet Franc - 2017"
 date: 2018-11-18T12:33:46+10:00
-featured: false
-weight: 12
+featured: true
+weight: 2
 layout: service
 ---
 ![Bolyki12](/images/bolyki12.png)

@@ -2,7 +2,7 @@
 title: "Ster van Eger - 2019"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-weight: 2
+weight: 4
 layout: service
 ---
 ![Bolyki02](/images/bolyki02.png)

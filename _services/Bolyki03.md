@@ -2,7 +2,7 @@
 title: "Meta Tema (droge lindebladeren) - 2018"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-weight: 3
+weight: 5
 layout: service
 ---
 ![Bolyki03](/images/bolyki03.png)
