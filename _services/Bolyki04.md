@@ -2,7 +2,7 @@
 title: "Egri Rosé - 2019"
 date: 2018-11-18T12:33:46+10:00
 featured: true
-weight: 6
+weight: 7
 layout: service
 ---
 ![Bolyki04](/images/bolyki04.png)

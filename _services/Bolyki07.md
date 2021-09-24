@@ -2,7 +2,7 @@
 title: "Egri Merlot - 2016"
 date: 2018-11-18T12:33:46+10:00
 featured: false
-weight: 9
+weight: 10
 layout: service
 ---
 ![Bolyki07](/images/bolyki07.png)
