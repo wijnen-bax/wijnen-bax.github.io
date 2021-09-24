@@ -19,3 +19,6 @@ footer:
   - name: "Contact"
     url: "/contact/"
     weight: 2
+  - name: "Webshop"
+    url: "https://shop.wijnen-bax.be"
+    weight: 2
