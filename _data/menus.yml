@@ -1,4 +1,7 @@
 main:
+  - name: "Webshop"
+    url: "https://shop.wijnen-bax.be"
+    weight: 1
   - name: "Wijn"
     url: "/services/"
     weight: 2
