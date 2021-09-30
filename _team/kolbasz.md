@@ -12,14 +12,14 @@ Huisgerookte kolbász wordt op traditionele wijze gerookt en gedroogd. Door o.a.
 
 ![Kolbasz](/images/Kolbasz2.JPG)
 
-###Huisgerookte kolbász mild
+### Huisgerookte kolbász mild
 
 Ingrediënten: Varkensvlees, zout, paprikapoeder (2,3%), spek, kruiden, aroma, suiker, dextrose, knoflookpulp, kleurstof: paprika-extract, antioxidant: natriumascorbaat, kruidenextract, conserveermiddel: natriumnitriet, startercultuur, natuurlijke varkensdarm.
 
-###Huisgerookte kolbász pittig
+### Huisgerookte kolbász pittig
 
 Ingrediënten: Varkensvlees, zout, pittige paprikapoeder (2,2%), spek, kruiden, chili (0,4%), suiker, dextrose, paprika-extract, antioxidant: natriumascorbaat, kruidenextract, conserveermiddel: natriumnitriet, startercultuur, natuurlijke varkensdarm.
 
-###Allergie-informatie:
+### Allergie-informatie:
 
 Glutenvrij en zonder smaakversterkers.
