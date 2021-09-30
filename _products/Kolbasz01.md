@@ -21,4 +21,4 @@ Glutenvrij en zonder smaakversterkers.
 
 ### Prijs
 
-- €
+10 €
