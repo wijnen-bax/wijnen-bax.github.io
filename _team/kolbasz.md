@@ -10,7 +10,7 @@ Huisgerookte kolbász is een typische Hongaarse kolbász soort. Je proeft het tr
 
 Huisgerookte kolbász wordt op traditionele wijze gerookt en gedroogd. Door o.a. de bekende Hongaarse paprikapoeder toe te voegen ontstaat de ambachtelijke smaak van deze huisgerookte kolbász.
 
-![Kolbasz](/images/Kolbasz2.JPG)
+![Kolbasz](/images/Kolbasz2.jpg)
 
 ### Huisgerookte kolbász mild
 
