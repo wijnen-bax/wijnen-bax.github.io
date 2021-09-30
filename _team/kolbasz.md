@@ -23,3 +23,7 @@ Ingrediënten: Varkensvlees, zout, pittige paprikapoeder (2,2%), spek, kruiden, 
 ### Allergie-informatie:
 
 Glutenvrij en zonder smaakversterkers.
+
+### Prijs
+
+10 € per stuk (500-600 gram)
