@@ -28,6 +28,13 @@ collections:
     output: true
   products:
     output: true
+  geszler:
+    output: true
+  bolyki:
+    output: true
+  kokeny:
+    output: true
+
 
 sass:
   indentWidth: 4

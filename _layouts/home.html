@@ -23,6 +23,11 @@ bodyClass: page-home
 </div>
 
 <div class="strip">
+  <div class="row justify-content-center">
+    <div class="col-auto">
+      <a class="button button-primary" href="{{site.baseurl}}/services">Uitgelicht</a>
+    </div>
+  </div>
   <div class="container pt-6 pb-6 pb-md-10">
     <div class="row justify-content-start">
       {% assign featured_wines = site.services | where: "featured", true | sort: "weight" %}
@@ -41,24 +46,8 @@ bodyClass: page-home
     </div>
     <div class="row justify-content-center">
       <div class="col-auto">
-        <a class="button button-primary" href="{{site.baseurl}}/services">Bekijk al onze wijnen</a>
+        <a class="button button-primary" href="{{site.baseurl}}/wijnhuizen">Bekijk al onze wijnen</a>
       </div>
     </div>
   </div>
 </div>
-
-{% if site.data.features %}
-<div class="strip strip-grey">
-  <div class="container pt-6 pb-6 pt-md-10 pb-md-10">
-    <div class="row justify-content-center">
-      {% for feature in site.data.features %}
-        <div class="feature">
-          {% if feature.image %}
-          <div class="feature-image"><img alt="{{ feature.title }} logo" src="{{ feature.image | relative_url }}" /></div>
-          {% endif %}
-        </div>
-      {% endfor %}
-    </div>
-  </div>
-</div>
-{% endif %}

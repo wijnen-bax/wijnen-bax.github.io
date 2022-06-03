@@ -2,18 +2,24 @@ main:
   - name: "Webshop"
     url: "https://shop.wijnen-bax.be"
     weight: 1
-  - name: "Wijn"
-    url: "/services/"
+  - name: "Bolyki"
+    url: "/bolyki/"
     weight: 2
+  - name: "Geszler"
+    url: "/geszler/"
+    weight: 3
+  - name: "Kokeny es Fia"
+    url: "/kokeny/"
+    weight: 4
   - name: "Voeding"
     url: "/team/"
-    weight: 3
+    weight: 5
   - name: "Over ons"
     url: "/about/"
-    weight: 4
+    weight: 6
   - name: "Contact"
     url: "/contact/"
-    weight: 5
+    weight: 7
 
 footer:
   - name: "Home"
