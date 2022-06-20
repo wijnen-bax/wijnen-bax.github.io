@@ -1,7 +1,7 @@
 ---
 title: "Móri Ezerjó - 2021"
 date: 2018-11-18T12:33:46+10:00
-featured: true
+featured: false
 weight: 5
 layout: service
 ---
@@ -21,4 +21,4 @@ Droogheidsgraad: droog
 
 ### Prijs
 
-8 €
+UITVERKOCHT (weer beschikbaar in september)
