@@ -26,4 +26,4 @@ Glutenvrij en zonder smaakversterkers.
 
 ### Prijs
 
-10 € per stuk (500-600 gram)
+16.5 € per stuk (500-600 gram)
